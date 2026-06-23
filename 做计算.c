@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-     printf("%d.\n", 43+35464452346);
+     printf("%d.\n", 43+3);
      return 0;
 }
